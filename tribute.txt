@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tribute to Sachin Tendulkar </title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+    }
+
+    #container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: pink;
+      border: 1px solid black;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+
+    img {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+      height: auto;
+      border-radius: 5px;
+    }
+
+    p {
+      margin-bottom: 10px;
+      line-height: 1.6;
+    }
+
+    .quote {
+      font-style: italic;
+      margin-bottom: 20px;
+    }
+
+    .source {
+      text-align: right;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <h1>Tribute to Sachin Tendulkar </h1>
+    <img src=" C:\Users\M.RAMYA\OneDrive\Pictures\Saved Pictures\sachin_tendulkar.png " width="250" height="250">
+    <p
+     Sachin Tendulkar, in full Sachin Ramesh Tendulkar, (born April 24, 1973, Bombay [Mumbai], India), Indian professional cricket player, considered by many to be one      of the greatest batsmen of all time. In 2012 he became the first cricketer to score 100 centuries (100 runs in a single innings) in international play.
+    </p>
+
+    <p>
+      Tendulkar was given his first bat when he was 11 years of age. As a 14-year-old, he used it to score 329 out of a world-record stand of 664 in a school match. A year later he scored a century on his first-class debut for Bombay (Mumbai), and at age 16 years 205 days he became India’s youngest Test (international) cricketer, making his debut against Pakistan in Karachi in November 1989. When he was 18 he scored two centuries in Australia (148 in Sydney and 114 in Perth), and in 1994 he scored 179 against the West Indies. In August 1996, at age 23, Tendulkar was made captain of his country’s team.
+    </p>
+    <p class="quote">
+     “People throw stones at you and you convert them into milestones".
+    </p>
+    <p class="source">- Sachin Tendulkar</p>
+    <p>
+     In 2012 Tendulkar became a member of the Rajya Sabha, the upper chamber of the Indian parliament—the first active athlete to join that body; he was nominated to the post, and his term ended in 2018. In 2014 he became the first sportsman to receive India’s highest civilian honour, the Bharat Ratna. Tendulkar was inducted into the International Cricket Council Hall of Fame in 2019.
+    </p>
+  </div>
+</body>
+</html>
